@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fde41c1-dc89-482a-ad0f-c53cf71bf22c" name="Changes" comment="fix go mod" />
+    <list default="true" id="9fde41c1-dc89-482a-ad0f-c53cf71bf22c" name="Changes" comment="go genned files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/sso.proto" beforeDir="false" afterPath="$PROJECT_DIR$/proto/sso.proto" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,12 @@
   </component>
   <component name="GOROOT" url="file:///opt/homebrew/opt/go/libexec" />
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -80,7 +89,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added TaskFile" />
     <MESSAGE value="fix go mod" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix go mod" />
+    <MESSAGE value="go genned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="go genned files" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
